@@ -1,9 +1,6 @@
 # Github_course
 For Github course
 
-## Project Notes
+## Project Notes.
 
-
-### Pull 
-
-#### Pull 2
+second com
